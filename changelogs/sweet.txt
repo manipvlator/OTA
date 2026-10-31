@@ -31,3 +31,18 @@ Based on LineageOS SM6150 tree
 • Optimize SurfaceFlinger display
 • Enable display smooth montion
 • Switch to Kawase2 render engine
+
+30/10/2026
+• Added KProfiles performance profiles
+• Improved support for using the phone as a webcam
+• Added the Horeg equalizer preset
+• New Dolby app UI with expressive typography and a compact navbar
+• Added LDAC Bluetooth codec support
+• Improved audio playback stability with a larger offload buffer
+• Updated audio volume table for more consistent volume steps
+• Fixed Dolby Codec2 crashes
+• Improved display smoothness
+• Improved storage read•ahead
+• Reduced background memory compaction for smoother performance
+• Fixed flashlight strength control from Quick Settings
+• Fixed OTA updates on encrypted f2fs
